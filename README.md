@@ -1,5 +1,7 @@
-## For mor info on this app please see the 
+### For mor info on this app please see visit the link below.
 [https://github.com/joshuaneedham/redux-learning-supersquads/blob/master/app-overview.txt](app-overview.text)
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
